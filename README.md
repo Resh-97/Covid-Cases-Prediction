@@ -4,4 +4,7 @@
 ### Few of the visualizations I acheived are shown below:
 ![Output 1](images/Confirmed%20cases%20in%20India.PNG)
 
-![Output 1](images/Confirmed%20cases%20in%20India.PNG)
+![Output 2](/images/Number%20of%20cases.PNG)
+
+
+![Output 2](/images/Number%20of%20cases.PNG)
