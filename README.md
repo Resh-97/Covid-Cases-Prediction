@@ -11,4 +11,6 @@
 
 ![Output 4](/images/arounf%20the%20world.PNG)
 
-![Output 5](/images/arounf%20the%20world.PNG)
+![Output 5](/images/map.PNG)
+
+![Output 6](/images/map.PNG)
