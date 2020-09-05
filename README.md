@@ -13,4 +13,4 @@
 
 ![Output 5](/images/map.PNG)
 
-![Output 6](/images/map.PNG)
+![Output 6](/images/worldwide.PNG)
