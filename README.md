@@ -9,4 +9,6 @@
 
 ![Output 3](/images/Trend%20of%20Covid%20in%20India.PNG)
 
-![Output 4](images/Confirmed%20cases%20in%20India.PNG)
+![Output 4](/images/arounf%20the%20world.PNG)
+
+![Output 5](/images/arounf%20the%20world.PNG)
